@@ -9,3 +9,28 @@
 
   These notes provide an introduction to polynomial chaos and include a python notebook with many examples.
   
+  
+  
+  
+  
+ 
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
+<br></br>
+
