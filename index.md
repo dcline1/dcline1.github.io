@@ -1,9 +1,14 @@
+## Publications
+
+- Cline, Daniel A.; Aguinaldo, Grant T.; and Lemp, Christian (2022) "[Modeling Empirical Stock Market Behavior Using a Hybrid Agent-Based Dynamical Systems Model](https://orb.binghamton.edu/nejcs/vol4/iss2/1/)," Northeast Journal of Complex Systems (NEJCS): Vol. 4 : No. 2 , Article 1.
+
+  Supporting code: [https://github.com/dcline1/MarketABM](https://github.com/dcline1/MarketABM)
+
+
+<br>
+
+
 ## Projects
-
-- [MarketABM](https://github.com/dcline1/MarketABM)
-
-  Modeling Empirical Stock Market Behavior Using a Hybrid Agent-Based Dynamical Systems Model
-
 
 - [Introduction to Polynomial Chaos](https://github.com/dcline1/PolynomialChaos)
 
