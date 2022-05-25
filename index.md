@@ -11,12 +11,12 @@
 
 - Notes on Linear Algebra ([pdf](https://nbviewer.org/github/dcline1/LinearAlgebra/blob/main/ClineLA.pdf)) ([github](https://github.com/dcline1/LinearAlgebra))
 
-  Review of core concepts in linear algebra, with emphasis on topics needed for machine learning and optimization.
+  Quick reference for core concepts in linear algebra with an emphasis on topics needed for machine learning and optimization.
 
 
 - Introduction to Polynomial Chaos ([pdf](https://nbviewer.org/github/dcline1/PolynomialChaos/blob/main/ClinePCE.pdf)) ([python notebook](https://github.com/dcline1/PolynomialChaos/blob/main/ClinePCE.ipynb)) ([github](https://github.com/dcline1/PolynomialChaos))
 
-  These notes provide an introduction to polynomial chaos and include a python notebook with many examples.
+  These notes provide an introduction to polynomial chaos and include a companion python notebook with many numerical examples.
  
   
   
