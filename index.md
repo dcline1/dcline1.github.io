@@ -14,7 +14,7 @@
   Review of core concepts in linear algebra, with emphasis on topics needed for machine learning and optimization.
 
 
-- Introduction to Polynomial Chaos ([pdf](https://nbviewer.org/github/dcline1/PolynomialChaos/blob/main/ClinePCE.pdf)) ([github](https://github.com/dcline1/PolynomialChaos))
+- Introduction to Polynomial Chaos ([pdf](https://nbviewer.org/github/dcline1/PolynomialChaos/blob/main/ClinePCE.pdf)) ([python notebook](https://github.com/dcline1/PolynomialChaos/blob/main/ClinePCE.ipynb)) ([github](https://github.com/dcline1/PolynomialChaos))
 
   These notes provide an introduction to polynomial chaos and include a python notebook with many examples.
  
