@@ -1,4 +1,3 @@
-# Daniel A. Cline
 
 
 ## Publications
